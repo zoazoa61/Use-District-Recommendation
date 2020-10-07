@@ -1,6 +1,6 @@
 # Use-District-Recommendation
 
-## Accomplishments
+## Summaries
  - The 2nd Daegu Big Data Analysis Contest (in progress)
 
 ## Contents:
