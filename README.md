@@ -14,4 +14,4 @@
 
 ## E.T.C
 
-![KakaoTalk_20201016_145129249](https://user-images.githubusercontent.com/55681849/96224328-5b081980-0fca-11eb-8302-88e3137d77d9.jpg)
+![그림1](https://user-images.githubusercontent.com/55681849/96224517-b20dee80-0fca-11eb-9402-fbe022949df0.jpg)
