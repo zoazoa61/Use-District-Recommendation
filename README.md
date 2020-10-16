@@ -14,4 +14,4 @@
 
 ## E.T.C
 
-![Uploading KakaoTalk_20201016_145129249.jpg…]()
+![KakaoTalk_20201016_145129249](https://user-images.githubusercontent.com/55681849/96224328-5b081980-0fca-11eb-8302-88e3137d77d9.jpg)
