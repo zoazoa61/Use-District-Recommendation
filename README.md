@@ -1,7 +1,7 @@
 # Use-District-Recommendation
 
-## Summary
- - The 2nd Daegu Big Data Analysis Contest (in progress)
+## Accomplishments
+ - Awarded the 2nd Daegu Big Data Analysis Contest (Encouragement Prize)
 
 ## Contents:
  - This service is recommended when considering changes in the use of 'unspecified and finely divided areas' in the city/gun management p
@@ -12,3 +12,6 @@
 
 [![Video Label](https://img.youtube.com/vi/d83mIGf23Aw/0.jpg)](https://youtu.be/d83mIGf23Aw)
 
+## E.T.C
+
+![Uploading KakaoTalk_20201016_145129249.jpg…]()
